@@ -3,6 +3,8 @@
 
 
 Welcome to the Weather Web Application! This application is a simple and responsive web tool that allows you to check real-time weather information for specified locations.
+This project is a weather condition tracker that uses the Open Weather API to fetch current weather data for a given location. It displays the current temperature, weather description, and other related weather information.
+
 
 
 
@@ -21,3 +23,9 @@ Welcome to the Weather Web Application! This application is a simple and respons
 ## Getting Started
 
 LIVE URL : https://weather-spot-api.netlify.app/
+
+
+# SCREENSHOT 
+
+![Screenshot22 (99)](https://github.com/AVI-Panwar/Weather-Web-Application/assets/69872224/ff16295b-8c53-4d4c-b13b-a67332bf2b99)
+
