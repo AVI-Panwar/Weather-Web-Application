@@ -27,5 +27,8 @@ LIVE URL : https://weather-spot-api.netlify.app/
 
 # SCREENSHOT 
 
+![Screenshot (98)](https://github.com/AVI-Panwar/Weather-Web-Application/assets/69872224/fcf5ed79-5dfd-47e1-8e72-0d3e676df526)
+
+
 ![Screenshot22 (99)](https://github.com/AVI-Panwar/Weather-Web-Application/assets/69872224/ff16295b-8c53-4d4c-b13b-a67332bf2b99)
 
