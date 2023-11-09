@@ -20,9 +20,4 @@ Welcome to the Weather Web Application! This application is a simple and respons
 
 ## Getting Started
 
-To run the application locally, follow these steps:
-
-1. Clone this repository to your local machine using `git clone`.
-
-```bash
-git clone https://github.com/AVI-Panwar/Weather-Web-Application.git
+LIVE URL : https://weather-spot-api.netlify.app/
